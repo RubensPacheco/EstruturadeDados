@@ -1,6 +1,7 @@
 # lista encadeada simples
 #com sugestoes do Professor
 #Aluno Rubens Gigante Pacheco
+#matéria Estrutura de Dados
 #
 #criando a classe No que sera a parte elementar da lista
 class No:
